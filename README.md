@@ -1,3 +1,11 @@
+In this project, it will ask for two names.
+Then it will combine the two names. 
+It will look at each letter in the combined names and count how many letters the two names have in "true love".
+They with an if statement, it will give you three different results. 
+If thier "love score" is less then 10 or more then 90, it will print, "Your score is {love_score}, you go together like coke and mentos."
+If thier "love score" is between 40 and 50 percent, it will print,"Your score is {love_score}, you are alright together."
+And if they get anything else, it will print, "Your score is {love_score}, I will see you at the wedding!". 
+
 ## Love Calculator
 
 # UPDATE
